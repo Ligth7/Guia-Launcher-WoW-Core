@@ -12,8 +12,8 @@ Bienvenido a la guía oficial para instalar y ejecutar **WoW Core Reforge**.
 ![Vista previa del launcher](https://i.postimg.cc/Y9vDtMgn/Screenshot-25.png)
 
 ## ⚙️ Instalación de Parches WoW Core Reforge
-```bash
 Ejecutar el [Launcher](https://mega.nz/file/cQNSgJAA#kg_slFivyJ4eFj7RdAS_w5_E4LZfLvbsdt20PIh7mbQ) 
+
 ![Vista previa del launcher](https://prnt.sc/Pu1kZgV08k1J)
 
 - ✅ Sistema: Windows 10 o 11
