@@ -65,5 +65,5 @@ Una vez finalizada la descarga, simplemente haz clic en **Jugar** para comenzar 
 
 ---
 
-¡Listo! Ya tenés el cliente completo y funcional de **WoW Core Reforge**. Si tenés dudas, podés consultar al staff en el [grupo de soporte].
+¡Listo! Ya tenés el cliente completo y funcional de **WoW Core Reforge**. Si tenés dudas, podés consultar al staff.
 
