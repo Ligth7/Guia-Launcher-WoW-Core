@@ -6,17 +6,13 @@ Bienvenido a la guía oficial para instalar y ejecutar **WoW Core Reforge**.
 
 ## 📦 Requisitos
 
-- ✅ Sistema: Linux Debian 11 o superior
-- ✅ Git
-- ✅ CMake 3.10+
-- ✅ Clang / Clang++
-- ✅ MySQL 5.7+
-- ✅ Boost 1.73+
-
+- ✅ Sistema: Windows 10 o 11
+- ✅ Tener 25GB de espacio en tu disco duro
+- ✅ Seguir todos estos pasos
 ---
 
-## ⚙️ Preparación del entorno
+## ⚙️ Instalación de Parches WoW Core Reforge
 
 ```bash
-sudo apt update && sudo apt upgrade
-sudo apt install git cmake clang libmysqlclient-dev libboost-all-dev
+Necesariamente necesitas un cliente limpio son ningun parche grafico externos.
+
