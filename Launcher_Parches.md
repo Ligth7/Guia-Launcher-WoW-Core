@@ -1,4 +1,4 @@
-# 🎮 Guía de Instalación - WoW Core Reforge Launcher
+# 🎮 Guía de Instalación de Parches - WoW Core Reforge Launcher
 
 Bienvenido a la guía oficial para instalar y ejecutar **WoW Core Reforge**.
 
